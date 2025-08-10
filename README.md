@@ -24,7 +24,7 @@ This repository contains my completed tasks for the **Front-End Development **.
 
 ## 📸 Demo
 ![home](image.png)
-![home2](image-1.png)
+
 
 ## 🛠️ Tools Used
 
