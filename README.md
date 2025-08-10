@@ -23,8 +23,8 @@ This repository contains my completed tasks for the **Front-End Development Inte
 - `assets/` - Folder for images (optional)
 
 ## 📸 Demo
-
-
+![home](image.png)
+![home2](image-1.png)
 
 ## 🛠️ Tools Used
 
