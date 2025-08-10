@@ -1,7 +1,7 @@
 
-# Cognifyz Technologies - Front-End Internship Project
+#  Front-End  Project
 
-This repository contains my completed tasks for the **Front-End Development Internship** offered by **Cognifyz Technologies**.
+This repository contains my completed tasks for the **Front-End Development **.
 
 ## 🚀 Features & Tasks Completed
 
@@ -41,6 +41,4 @@ This repository contains my completed tasks for the **Front-End Development Inte
 - 💻 [GitHub](https://github.com/0609Abhinav)  
 - 📧 Email: abhinavtripathi6sep@gmail.com
 
----
 
-> Proud to complete this milestone with Cognifyz Technologies 💪
