@@ -24,7 +24,7 @@ This repository contains my completed tasks for the **Front-End Development Inte
 
 ## 📸 Demo
 
-*(Include screenshots or link to video if available)*
+
 
 ## 🛠️ Tools Used
 
@@ -37,8 +37,8 @@ This repository contains my completed tasks for the **Front-End Development Inte
 
 ## 📢 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 💻 [GitHub](https://github.com/yourprofile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-tripathi-770224253/)  
+- 💻 [GitHub](https://github.com/0609Abhinav)  
 - 📧 Email: abhinavtripathi6sep@gmail.com
 
 ---
