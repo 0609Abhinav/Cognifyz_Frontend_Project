@@ -1,0 +1,23 @@
+$primary-color: #7fadf4;
+$secondary-color: #e98fce;
+$font-stack: 'Poppins', sans-serif;
+
+body {
+  font-family: $font-stack;
+  background-color: #f5f7fa;
+}
+
+button {
+  background-color: $primary-color;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  transition: 0.3s ease;
+
+  &:hover {
+    background-color: darken($primary-color, 10%);
+    box-shadow: 0 0 20px $primary-color;
+    transform: translateY(-2px);
+  }
+}
